@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplineAreaChart", "SplineAreaChart\SplineAreaChart.csproj", "{86CB58FB-86FD-4AD2-95BD-EEF292BD6273}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplineAreaChart", "SplineAreaChart\SplineAreaChart.Net5.csproj", "{86CB58FB-86FD-4AD2-95BD-EEF292BD6273}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
